@@ -1,5 +1,5 @@
 %The DFT as a Matrix Computation
-disp('Enter first the signal and then the zero padding below. For some reason, the input statements are not displayed sometimes');
+disp('Enter first the signal and then the zero padding below.');%For some reason, the input statements are not displayed sometimes
 x=input('Enter Signal');
 Z=input('Enter zero padding');
 L=length(x);
